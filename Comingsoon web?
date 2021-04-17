@@ -68,3 +68,9 @@ body {
   margin-top: -15px;
   font-size: smaller;
 }
+.github-ribbon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+}
