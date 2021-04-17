@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coming Soon!</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div>
+        <a href="https://github.com/FadhilR12">
+            <img src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="github">
+        </a>
+    </div>
+    <div class="Item">
+        <p class="title">Coming Soon!</p>
+        <img class="Image" src="/Gambar/FB_IMG_1578711013686.jpg" alt="Wait">
+        <p class="desc">Im Still Practicing...</p>
+        <p class="email">
+            <a href="mailto:fadhilrahman0814@gmail.com">fadhilrahman0814</a>
+        </p>
+    </div>
+    
+</body>
+</html>
